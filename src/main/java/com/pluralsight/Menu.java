@@ -7,7 +7,7 @@ public class Menu {
     private final Scanner scanner = new Scanner(System.in);
 
     public int showMainMenu() {
-        clearConsole();
+//        clearConsole();
         System.out.println("[1] Log a new mood");
         System.out.println("[2] View past moods");
         System.out.println("[3] Exit");
